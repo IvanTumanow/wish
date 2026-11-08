@@ -1,0 +1,1 @@
+export {default as useSwipeActions} from './use-swipe-actions'
